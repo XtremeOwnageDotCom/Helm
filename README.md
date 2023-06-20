@@ -1,0 +1,1 @@
+Original lemmy chart copied from https://gitlab.com/ananace/charts/-/blob/master/README.md
